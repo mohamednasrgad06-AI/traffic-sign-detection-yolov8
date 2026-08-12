@@ -1,0 +1,18 @@
+# Kaggle credentials
+kaggle.json
+
+# Dataset archives
+*.zip
+
+# YOLO training outputs
+runs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Google Colab temporary files
+.ipynb_checkpoints/
